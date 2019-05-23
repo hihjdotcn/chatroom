@@ -19,8 +19,9 @@
     "url": "https://github.com/hihjdotcn/chatroom/issues"
   },
   "homepage": "https://github.com/hihjdotcn/chatroom#readme",
-  "devDependencies": {
-    "mime": "^2.4.3",
-    "socket.io": "^2.2.0"
+  "devDependencies": {},
+  "dependencies": {
+    "mime": "~1.2.7",
+    "socket.io": "~0.9.6"
   }
 }
